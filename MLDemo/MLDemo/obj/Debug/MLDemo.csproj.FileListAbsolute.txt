@@ -1,0 +1,12 @@
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\bin\Debug\MLDemo.exe.config
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\bin\Debug\MLDemo.exe
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\bin\Debug\MLDemo.pdb
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\obj\Debug\MLDemo.csprojResolveAssemblyReference.cache
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\obj\Debug\MLDemo.Form1.resources
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\obj\Debug\MLDemo.Properties.Resources.resources
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\obj\Debug\MLDemo.csproj.GenerateResource.Cache
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\obj\Debug\MLDemo.exe
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\obj\Debug\MLDemo.pdb
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\bin\Debug\Newtonsoft.Json.dll
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\bin\Debug\Newtonsoft.Json.pdb
+D:\Bull Innovations\BI Demos\MLDemo\MLDemo\bin\Debug\Newtonsoft.Json.xml
